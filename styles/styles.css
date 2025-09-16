@@ -1,0 +1,27 @@
+.world {
+    background-color: rgb(255, 181, 20);
+    color:rgb(0, 0, 0);
+}
+.lopata {
+    color:rgb(0, 0, 0);
+    background-color: gold;
+}
+.note{
+    color:mediumslateblue;
+    background:mediumspringgreen;
+    padding: 10px;
+    border-radius: 8px;
+}
+.body{
+    background-color:darkgoldenrod ;
+    color:rgb(0, 0, 0);
+
+}
+.lololo{
+    background-color: darkgoldenrod;
+    color:rgb(0, 0, 0);
+}
+.kkeew{
+    background-color: darkgoldenrod;
+    color:rgb(0, 0, 0);
+}
