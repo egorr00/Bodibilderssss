@@ -113,3 +113,16 @@ p{
 .row{display:flex;gap :12px;}
 .box{width: 80px; height: 80px;background: #e2e8f8;border: 2px solid #94a3b8;}
 .abs { position:absolute;top:0;}
+.scroll-top{
+    position:fexed;
+    bottom: 20px;
+    right:20;
+    background:#ef4444;
+    color:white;
+    border: none;
+    padding: 12px 16px;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor:pointer
+
+}
